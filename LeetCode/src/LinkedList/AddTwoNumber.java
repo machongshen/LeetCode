@@ -1,18 +1,5 @@
 package LinkedList;
-
-class ListNode {
-	// Variable
-	int val;
-	// Point to next object
-	ListNode next;
-	ListNode(int x) {
-		val = x;
-		next = null;
-	}
-}
-
-
-public class SwapNodesinPairs {
+public class AddTwoNumber {
 	/**
 	 * Recursively swap nodes Pairs
 	 */
