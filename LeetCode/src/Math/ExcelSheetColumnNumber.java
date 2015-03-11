@@ -12,7 +12,9 @@ public class ExcelSheetColumnNumber {
 			int k = (int) cur - 'a' + 1;
 			num = 26 * (num) + k;
 		}
+		
 		return num;
+		
 	}
 
 	public static void main(String args[]) {
